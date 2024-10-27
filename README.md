@@ -38,4 +38,6 @@ The reports utilize Forggith’s standard colors and branding. Customization of 
 ## Certification
 I have completed the Power BI Developer virtual internship. You can view my certification [here](https://training.foresightbi.com.ng/certificates/nzajqresvl).
 
+## Repository Structure
 
+- **/Reports**: Contains Power BI report files and visualizations.
