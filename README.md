@@ -40,4 +40,5 @@ I have completed the Power BI Developer virtual internship. You can view my cert
 
 ## Repository Structure
 
-- **/Reports**: Contains Power BI report files and visualizations.
+- **[Dashboard.pdf](https://github.com/A-n-j-a-l-i-R-a-w-a-t/forggith-pharmaceuticals-power-bi-reports/blob/main/Forggith%20Pharmaceuticals%20PBI%20Report.pdf)**: Contains the PDF of my Power BI dashboard.
+
